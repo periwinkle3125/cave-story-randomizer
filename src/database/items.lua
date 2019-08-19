@@ -288,8 +288,7 @@ local function _itemData()
     mrLittle = {
       name = "Little Man",
       script = "<EVE0082",
-      attributes = {"event"},
-      placed = true
+      attributes = {"mandatory"}
     },
     ironBond = {
       name = "Iron Bond",
