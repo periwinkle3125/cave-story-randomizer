@@ -163,27 +163,27 @@ local function _itemData()
     puppy1 = {
       name = "Hajime",
       script = "<EVE0064",
-      attributes = {"puppy"}
+      attributes = {"puppy", "mandatory"}
     },
     puppy2 = {
       name = "Kakeru",
       script = "<EVE0064",
-      attributes = {"puppy"}
+      attributes = {"puppy", "mandatory"}
     },
     puppy3 = {
       name = "Mick",
       script = "<EVE0064",
-      attributes = {"puppy"}
+      attributes = {"puppy", "mandatory"}
     },
     puppy4 = {
       name = "Nene",
       script = "<EVE0064",
-      attributes = {"puppy"}
+      attributes = {"puppy", "mandatory"}
     },
     puppy5 = {
       name = "Shinobu",
       script = "<EVE0064",
-      attributes = {"puppy"}
+      attributes = {"puppy", "mandatory"}
     },
     lifepot = {
       name = "Life Pot",
