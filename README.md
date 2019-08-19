@@ -13,7 +13,7 @@ Note that there are a few key differences from the vanilla game in order to impr
 - Most cutscenes have been abridged or skipped entirely
 - Jellyfish Juice can be used an infinite number of times
 - You can carry as many as 5 puppies at once: Jenka will only accept them once you've collected all 5
-  - By the way, all 5 puppies will be located somewhere in the Sand Zone
+  - In this branch, the puppies can be in any item location! Have fun finding them :)
 - Certain items that are received from NPCs have been placed in chests:
   - Labyrinth B (Fallen Booster)
   - Labyrinth Shop
